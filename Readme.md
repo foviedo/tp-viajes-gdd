@@ -7,4 +7,4 @@ Detalles en archivo de estrategia.pdf
 Desarrollado junto a [@MatiasPardo](https://github.com/MatiasPardo) y [@fedebanca](https://github.com/fedebanca)
 
 ## Modo de uso  
-Simplemente correr el script usando la misma DB creada con el script!
+Simplemente correr los scripts de data usando la misma DB creada con el script del enunciado!
